@@ -28,9 +28,9 @@ products:
       own beans or just bought your first french press, you’ll find a gadget to
       fall in love with in our shop.
 values:
-  heading: Our values
-  text: Coffee is an amazing part of human culture but it has a dark side too –
-    one of colonialism and mindless abuse of natural resources and human lives.
-    We want to turn this around and return the coffee trade to the drink’s
-    exhilarating, empowering and unifying nature.
+  heading: About Grumps
+  text: Welcome to Grumps Greenery! I enjoy growing plants and working on DIY
+    projects in my free time. People around me find me quite grumpy and I hope
+    that by working on my passion/hobby helps me be less grumpy. Join me on this
+    journey, where i share my love for plants, learn how to care and grow them.
 ---
