@@ -3,11 +3,12 @@ title: Grumps Greenery
 subtitle: Sharing plant joy to be less grumpy!
 image: /img/home-jumbotron.jpg
 blurb:
-  heading: Why Kaldi?
-  text: Kaldi is the coffee store for everyone who believes that great coffee
-    shouldn't just taste good, it should do good too. We source all of our beans
-    directly from small scale sustainable farmers and make sure part of the
-    profits are reinvested in their communities.
+  heading: Why Grumps?
+  text: All plants and bonsai are carefully grown indoors, pest free with my own
+    mix of substrate or soil. Growing these plants and bonsai brings me immense
+    joy. I would like to extend this plant joy to others, which is why I have
+    decided to sell some of my plants and bonsai. Also, i have limited space in
+    my home :P
 intro:
   heading: What we offer
   text: Kaldi is the ultimate spot for coffee lovers who want to learn about their
