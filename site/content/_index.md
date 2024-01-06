@@ -17,8 +17,8 @@ products:
     text: Japanese Black Pine (Kuromatsu) seedling.
   - image: img/raintree_bonsai.jpg
     text: Mini Brazilian Rain Tree
-  - image: img/brt_bonsai.jpg
-    text: Mame Brazilian Rain Tree Bonsai
+  - image: img/blackpinebonsai.jpg
+    text: Mame Black Pine (Kuromatsu) Bonsai
 values:
   heading: About Grumps
   text: Welcome to Grumps Greenery!
