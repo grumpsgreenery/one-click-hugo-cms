@@ -1,7 +1,7 @@
 ---
 title: Grumps Greenery
 subtitle: Sharing plant joy to be less grumpy!
-image: /img/home-jumbotron.jpg
+image: img/black_pine_sprout.jpg
 blurb:
   heading: Why Grumps?
   text: All plants and bonsai are carefully grown indoors, pest free with my own
