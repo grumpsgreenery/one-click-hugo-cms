@@ -1,11 +1,14 @@
 ---
-title: About Grumps
+title: Grumps Values
 image: /img/about-jumbotron.jpg
 values:
-  - heading: About Grumps
-    text: I enjoy growing plants and working on DIY projects in my free time. People
-      around me find me quite grumpy and I hope that by working on my
+  - heading: DIY
+    text: "If u want it, create or do it yourself! I enjoy growing plants and
+      working on DIY projects in my free time. "
+    imageUrl: img/raintree_bonsai.jpg
+  - text: People around me find me quite grumpy and I hope that by working on my
       passion/hobby helps me be less grumpy. Join me on this journey, where i
       share my love for plants, learn how to care and grow them.
-    imageUrl: img/raintree_bonsai.jpg
+    heading: Be Less Grumpy
+    imageUrl: img/aloe_vera_sprout.jpg
 ---
