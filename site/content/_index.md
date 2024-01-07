@@ -20,6 +20,6 @@ products:
   - image: img/blackpinebonsai.jpg
     text: Mame Black Pine (Kuromatsu) Bonsai
 values:
-  heading: About Grumps
+  heading: Grumps Values
   text: Welcome to Grumps Greenery!
 ---
