@@ -9,4 +9,4 @@ is valuable for us.
 
 <h3 class="f4 b lh-title mb2">How can I get…?</h3>
 
-You can  reach out via instagram (grumps.greenery).
+You can also reach out via instagram (grumps.greenery).
