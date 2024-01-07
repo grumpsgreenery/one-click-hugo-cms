@@ -21,7 +21,7 @@ main:
     alt: Japanese Black Pine (Kuromatsu) Bonsai
     image: img/blackpinebonsai.jpg
 testimonials: []
-full_image: img/baobab.jpg
+full_image: img/journey.png
 pricing:
   heading: Prices
   description: Listings will be made available on carousell.
